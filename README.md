@@ -1,7 +1,7 @@
 # Kidney Stone Detection in Ultrasound Images Using Deep Learning  
 **BIL443 Project – TOBB University of Economics and Technology**  
 **Author:** Hakan Doğan  
-**Contact:** hakandogan@etu.edu.tr
+
 
 ---
 
